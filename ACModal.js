@@ -52,8 +52,6 @@ var ACModal = function() {
     
     modal.appendChild(contentBody);
     modal.appendChild(contentActions);
-    
-    modal.style = "transform: translate";
     overlay.appendChild(modal);
     
     return overlay;
