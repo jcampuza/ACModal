@@ -1,4 +1,4 @@
-var Modal = function() {
+var ACModal = function() {
   var OPTIONS;
   var builtModal;
   
